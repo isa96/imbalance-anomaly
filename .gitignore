@@ -1,0 +1,7 @@
+__pycache__/
+.idea
+*.egg-info/
+*.pyc
+datasets/*/logs/*
+datasets/*/log.all.pickle
+datasets/*/train-test/*
